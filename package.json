@@ -23,9 +23,9 @@
   },
   "dependencies": {
     "grunt": "^1.4.0",
-    "grunt-contrib-connect": "^3.0.0",
+    "grunt-contrib-connect": "^5.0.0",
     "grunt-contrib-cssmin": "^4.0.0",
-    "grunt-contrib-uglify": "^5.0.1",
+    "grunt-contrib-uglify": "^5.1.0",
     "grunt-md2html": "^0.5.1"
   },
   "engines": {
